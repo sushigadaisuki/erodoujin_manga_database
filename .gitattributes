@@ -1,0 +1,2 @@
+dlsite.json filter=lfs diff=lfs merge=lfs -text
+dmm.json filter=lfs diff=lfs merge=lfs -text
